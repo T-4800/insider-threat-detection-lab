@@ -64,5 +64,11 @@ Restricted file policy violations:
 ALERT: jdoe downloaded a restricted file after successful login
 ALERT: kjones downloaded a restricted file after successful login
 
+## Sample Output
+
+### Failed login summary:
+
+asmith: 3
+kjones: 3
 
 
