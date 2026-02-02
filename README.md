@@ -42,6 +42,15 @@ pip install -r requirements.txt
 # Run a detection script
 python3 src/rule_based_detection.py
 
+## Sample Output
+
+Failed login summary:
+asmith: 3
+kjones: 3
+
+Restricted file policy violations:
+ALERT: jdoe downloaded a restricted file after successful login
+ALERT: kjones downloaded a restricted file after successful login
 
 
 
