@@ -1,4 +1,15 @@
-venv/
+.ipynb_checkpoints/
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+
+# Data
+data/
+
+# OS-specific
+.DS_Store
