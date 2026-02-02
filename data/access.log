@@ -1,0 +1,15 @@
+2024-11-01 user=jdoe action=login status=success ip=10.0.0.12
+2024-11-01 user=jdoe action=download status=success file=payroll.db
+2024-11-01 user=asmith action=login status=fail ip=10.0.0.8
+2024-11-01 user=jdoe action=download status=success file=secrets.pdf
+2024-11-01 user=asmith action=login status=fail ip=10.0.0.8
+2024-11-01 user=asmith action=login status=fail ip=10.0.0.8
+2024-11-01 user=kjones action=login status=fail ip=10.0.0.1
+2024-11-01 user=kjones action=login status=fail ip=10.0.0.1
+2024-11-01 user=kjones action=login status=fail ip=10.0.0.1
+2024-11-02 user=kjones action=login status=success ip=1-.0.0.1
+2024-11-02 user=kjones action=download status=success file=secrets.pdf
+INVALID LINE WITHOUT EXPECTED FORMAT
+2024-11-01 user=bwhite action=login status=success ip=10.0.0.20
+timestamp=2024-01-10T09:00:00 user=jdoe action=login status=success
+timestamp=2024-01-10T09:05:00 user=jdoe action=download status=success file=secrets.pdf
