@@ -64,11 +64,16 @@ Restricted file policy violations:
 ALERT: jdoe downloaded a restricted file after successful login
 ALERT: kjones downloaded a restricted file after successful login
 
-## Sample Output
+Medium- and High-Risk Users:
+Medium-risk users:
+asmith — Risk Score: 2
+jdoe — Risk Score: 3
 
-### Failed login summary:
+High-risk users:
+kjones — Risk Score: 5
 
-asmith: 3
-kjones: 3
+Time-based alerts:
+ALERT: jdoe downloaded secrets.pdf 5 minutes after login
+
 
 
