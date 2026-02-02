@@ -37,6 +37,13 @@ This repository reflects the combination of **security expertise** and **data-dr
 4. **time_based_detection.py**  
    Generates alerts when suspicious sequences occur within a time window.
 
+   ---
+
+## Contact / Portfolio
+
+LinkedIn:  linkedin.com/in/mark-s-94a17217a
+Github Portfolio:  https://github.com/T-4800/insider-threat-detection-lab
+
 ## Usage
 
 ```bash
@@ -75,5 +82,5 @@ kjones — Risk Score: 5
 Time-based alerts:
 ALERT: jdoe downloaded secrets.pdf 5 minutes after login
 
-## Contact / Portfolio
+
 
