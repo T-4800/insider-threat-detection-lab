@@ -41,7 +41,12 @@ This repository reflects the combination of **security expertise** and **data-dr
 
 ## Contact / Portfolio
 
+This repository is part of my ongoing work in **insider threat detection, risk analysis, and AI/ML-enhanced security solutions**.  
+
+For questions, collaboration, or portfolio inquiries, feel free to reach out:
+
 LinkedIn:  linkedin.com/in/mark-s-94a17217a
+
 Github Portfolio:  https://github.com/T-4800/insider-threat-detection-lab
 
 ## Usage
