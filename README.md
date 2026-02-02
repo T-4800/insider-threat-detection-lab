@@ -1,8 +1,20 @@
 # Insider Threat Detection Lab
 
-A hands-on Python project exploring **rule-based detection**, **risk scoring**, **anomaly detection**, and **time-based alerts** for insider threat analysis.
+## Portfolio Summary
 
 Python-based insider threat detection framework with AI/ML and time-sequence anaysis.
+
+This project showcases a hands-on approach to **insider threat detection** using Python, rule-based analysis, and ML/AI-inspired techniques.  
+
+It demonstrates the ability to:  
+- Detect **failed logins** and **unauthorized file downloads** with rule-based logic  
+- Compute **user risk scores** and categorize medium- and high-risk users  
+- Identify **anomalous behavior** using distance-based methods  
+- Generate **time-based alerts** for suspicious sequences of user activity  
+- Organize a Python project professionally with clean folder structure (`src/`, `data/`, `docs/`)  
+- Use **version control** effectively and document workflows clearly for reproducibility  
+
+This repository reflects the combination of **security expertise** and **data-driven analysis**, illustrating skills in **Python programming, data parsing, anomaly detection, and explainable ML features**. It’s designed as a **portfolio-ready lab** demonstrating the practical application of insider threat detection principles.
 
 ## Repo Structure
 
@@ -51,8 +63,6 @@ kjones: 3
 Restricted file policy violations:
 ALERT: jdoe downloaded a restricted file after successful login
 ALERT: kjones downloaded a restricted file after successful login
-
-
 
 
 
