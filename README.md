@@ -45,7 +45,7 @@ This repository is part of my ongoing work in **insider threat detection, risk a
 
 For questions, collaboration, or portfolio inquiries, feel free to reach out:
 
-LinkedIn:  linkedin.com/in/mark-s-94a17217a
+LinkedIn:  https://linkedin.com/in/mark-s-94a17217a 
 
 Github Portfolio:  https://github.com/T-4800/insider-threat-detection-lab
 
