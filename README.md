@@ -1,8 +1,10 @@
 # Insider Threat Detection Lab
 
+Python-based insider threat detection framework with AI/ML and time-sequence anaysis.
+
 ## Portfolio Summary
 
-Python-based insider threat detection framework with AI/ML and time-sequence anaysis.
+
 
 This project showcases a hands-on approach to **insider threat detection** using Python, rule-based analysis, and ML/AI-inspired techniques.  
 
